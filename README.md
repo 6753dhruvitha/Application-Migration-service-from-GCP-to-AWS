@@ -1,4 +1,4 @@
-PROJECTIVE OBJECTIVE
+# PROJECTIVE OBJECTIVE
 
 
 
@@ -19,7 +19,7 @@ The migration involves:
 • Finalizing the cutover and decommissioning GCP resources
 
 
-PURPOSE OF THE PROJECT
+# PURPOSE OF THE PROJECT
 
 
 • The purpose of this project is to help :
